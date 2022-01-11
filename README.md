@@ -1,2 +1,2 @@
 # Generative Adversarial Networks(GANs)
-This repository contains implementations of WGAH and CycleGAN
+This repository contains implementations of WGAN and CycleGAN
